@@ -7,4 +7,4 @@ const findTheDifference = (s: string, t: string): string => {
   return '';
 };
 
-console.log(findTheDifference('ae', 'aea'));
+findTheDifference("ae", "aea");
